@@ -1,0 +1,16 @@
+.checkoutProduct {
+  display: flex;
+  width: 100%;
+  height: 150px;
+  padding: 5px;
+  background-color: #d4d4ef99;
+  margin-top: 15px;
+}
+.checkoutProduct_image {
+  margin: 5px;
+  height: 100%;
+  padding: 5px;
+}
+.checkoutProduct_rating {
+  display: flex;
+}
